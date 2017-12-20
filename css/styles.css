@@ -447,7 +447,7 @@ li {
   height: auto;
   width: 100%;
   color: white;
-  font-size: 24px;
+  font-size: 16px;
   bottom: 10px;
 }
 .foot2 a:hover{
@@ -1120,4 +1120,11 @@ hr {
 .signup:hover{
   font-weight: bold;
   cursor: pointer;
+}
+
+.gmap{
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #dfdfdf;
 }
